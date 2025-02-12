@@ -3,4 +3,3 @@ gunicorn
 pandas
 scikit-learn
 numpy
-pickle
